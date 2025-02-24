@@ -222,7 +222,7 @@
         padding: 10px 0; /* Reduce nav padding for mobile */
     }
     .nav-links li {
-        padding: 0px 0px 0 12px /* Reduce padding for nav list items */
+        padding: 0px 12px 0px 12px /* Reduce padding for nav list items */
     }
     .nav-links li a {
         font-size: 18px; /* Reduce font size for nav links on mobile */
