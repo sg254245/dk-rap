@@ -79,6 +79,17 @@
     }
 }
 
+ /* =============================
+   Scrolling CTA Box Link
+   ============================= */
+
+   @media only screen and (max-width: 1040px) {
+    /* Styles a fixed-position call-to-action box on the right side of the page */
+    .scrolling-cta-box {
+        right: -85px; /* Keeps it partially tucked */
+    }
+    }
+
 /* =============================
    Hamburger Menu - Tablet and Mobile
    ============================= */
