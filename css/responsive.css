@@ -19,7 +19,7 @@
       
     html, body { /* Select html and body elements */
         width: 100%; /* Force full width */
-        overflow-x: hidden; /* Prevent horizontal scrolling */
+     
     }
 }
 
